@@ -22,17 +22,22 @@ I've worked across software engineering, data engineering, and systems programmi
 
 <p align="left">
 💼 <b>Morgan Stanley</b> — Technology Summer Analyst (Software Engineering)<br>
-Built backend services and Angular frontend components for an agentic platform automating hedge fund onboarding.
+Developed backend services and Angular frontend components for an agentic workflow platform that automated hedge fund onboarding, reducing manual coordination and saving project managers 4+ hours per week.
 </p>
 
 <p align="left">
 💻 <b>Calero</b> — Software Engineer Co-op<br>
-Modernized frontend architecture with React and built C# / ASP.NET Core APIs supporting thousands of daily requests.
+Modernized a legacy platform by migrating frontend architecture to React and building C# / ASP.NET Core microservices that processed 8,000+ daily invoice tracking requests across a platform managing $10M+ in expense data for 5,000+ clients.
 </p>
 
 <p align="left">
 🧬 <b>Bristol Myers Squibb</b> — Data Engineer Intern<br>
-Built clinical trial analytics infrastructure and automated data access tooling using Python, AWS, PostgreSQL, and MCP.
+Engineered clinical trial analytics infrastructure integrating 20M+ records across 30+ datasets, and built automated data access tooling used by 50+ employees that reduced authentication latency by 86%.
+</p>
+
+<p align="left">
+🎓 <b>University of Maryland Department of Computer Science</b> — Teaching Assistant<br>
+Mentored 500+ students in Java, object-oriented programming, data structures, memory management, multithreading, and parallel processing through weekly workshops, office hours, and exam review sessions.
 </p>
 
 <h3 align="left">Featured Projects:</h3>
