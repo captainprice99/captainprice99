@@ -22,7 +22,7 @@ I've worked across software engineering, data engineering, and systems programmi
 
 <p align="left">
 💼 <b>Morgan Stanley</b> — Technology Summer Analyst (Software Engineering)<br>
-Developed backend services and Angular frontend components for an agentic workflow platform that automated hedge fund onboarding, reducing manual coordination and saving project managers 4+ hours per week.
+Developed full-stack components for an agentic workflow platform that automated hedge fund onboarding, reducing manual overhead and saving project managers 4+ hours per week.
 </p>
 
 <p align="left">
