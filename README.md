@@ -3,9 +3,9 @@
 <h3 align="center">Software Engineer | Distributed Systems · Machine Learning · Full-Stack Development</h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/arnavdoshi11/">LinkedIn</a> •
+  <a href="https://www.arnavdoshi.com/">Portfolio</a> •
+  <a href="mailto:doshiarnav29@gmail.com">Email</a>
 </p>
 
 <h3 align="left">About Me:</h3>
@@ -82,7 +82,7 @@ Computer Science Honors · GPA: 3.87/4.0 · Dean's List 5x
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/arnavdoshi11/">LinkedIn</a> •
+  <a href="https://www.arnavdoshi.com/">Portfolio</a> •
+  <a href="mailto:doshiarnav29@gmail.com">Email</a>
 </p>
